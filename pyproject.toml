@@ -1,6 +1,6 @@
 [project]
 name = "rns-flet-app"
-version = "0.1.0"
+version = "0.1.1"
 description = "A template for creating RNS Flet applications"
 authors = [
     {name = "Your Name"}
